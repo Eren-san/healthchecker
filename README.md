@@ -29,7 +29,7 @@ Run the application directly using the Java compiler.
 javac src/App.java
 
 # Run
-java src.App
+java App.java
 ```
 
 
